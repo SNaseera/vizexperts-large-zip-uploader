@@ -1,0 +1,15 @@
+{
+  "name": "resilient-uploader-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.9.2",
+    "unzipper": "^0.10.14"
+  }
+}
